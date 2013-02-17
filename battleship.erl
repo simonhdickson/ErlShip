@@ -1,6 +1,5 @@
 -module(battleship).
-%%-export([game/0,game/1,game/2,shoot/2,ship/1]).
--compile(export_all).
+-export([game/0,game/1,game/2,shoot/2,ship/1]).
 
 game() ->
     game([[{1,2},{2,2}],[{4,5},{4,6}]]).
