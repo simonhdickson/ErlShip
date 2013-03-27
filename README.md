@@ -17,3 +17,15 @@ To make a shot:
 	battleship:shoot(Game, {1,2}).
 
 Have fun!
+
+AI
+==
+
+Just added AI support so if you run:
+
+	battleship:game().
+	
+Two AIs will play each other.
+
+Even though it would be far more useful to be able to play against the AI, that doesn't actually
+work... (I just thought it was cooler to have two AIs...)
