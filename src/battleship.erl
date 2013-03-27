@@ -2,10 +2,9 @@
 -export([start_cpu_game/2, game/0, game/1, game/2, ship/3]).
 
 start_cpu_game(Size, LengthList) ->
-  CpuOne = game(Size, LengthList),
-  CpuTwo = game(Size, LengthList),
-  CpuOne ! {CpuTwo, {start, Size}}.
+  game(Size, LengthList) ! {game(Size, LengthList), {start, Size}}.
 game() ->
+  random:seed(now()),
   start_cpu_game(10, [1, 2, 3, 4]).
 game(Size, LengthList) ->
   Ships = generateShips(Size, LengthList),

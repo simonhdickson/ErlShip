@@ -4,7 +4,7 @@
     <list default="true" id="acff3599-f7f7-4436-9fd1-ae7f243b925f" name="Default" comment="" />
     <ignored path="ErlShip.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/battleship.erl" changelist="acff3599-f7f7-4436-9fd1-ae7f243b925f" time="1364419991917" ignored="false" />
+    <file path="/battleship.erl" changelist="acff3599-f7f7-4436-9fd1-ae7f243b925f" time="1364425636474" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <file leaf-file-name="battleship.erl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/battleship.erl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="10" selection-start="1387" selection-end="1389" vertical-scroll-proportion="-0.06410257">
+            <state line="8" column="39" selection-start="280" selection-end="280" vertical-scroll-proportion="0.25641027">
               <folding />
             </state>
           </provider>
@@ -331,7 +331,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67027026" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -401,7 +401,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/battleship.erl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="10" selection-start="1387" selection-end="1389" vertical-scroll-proportion="-0.06410257">
+        <state line="8" column="39" selection-start="280" selection-end="280" vertical-scroll-proportion="0.25641027">
           <folding />
         </state>
       </provider>
